@@ -20,3 +20,11 @@ Key Concepts to keep in mind for this Python Project:
 * String
 * Length
 * Print
+
+## Run the GAME in linux
+
+    "sh sourcerun.sh"
+
+## Run the GAME in windows
+
+    "python3 hangman.py"
