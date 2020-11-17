@@ -23,7 +23,7 @@ Key Concepts to keep in mind for this Python Project:
 
 ## Run the GAME in linux
 
-    "sh sourcerun.sh"
+    "python3 hangman.py"
 
 ## Run the GAME in windows
 

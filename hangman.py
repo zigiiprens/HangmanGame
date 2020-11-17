@@ -1,6 +1,7 @@
 import string
 from helper import get_random_word
 
+
 def get_num_attempts():
     """Get user-inputted number of incorrect attempts for the game."""
     while True:
@@ -60,8 +61,10 @@ def get_next_letter(remaining_letters):
 
 
 def play_hangman():
-    """Play a game of hangman.
-    At the end of the game, returns if the player wants to retry.     """
+    """
+        Play a game of hangman.
+        At the end of the game, returns if the player wants to retry.
+    """
 
     # Let player specify difficulty
     print('Starting a game of Hangman...')
