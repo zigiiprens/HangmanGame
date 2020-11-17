@@ -1,7 +1,9 @@
 """Function to fetch words."""
 
+import os
 import random
 
+ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 WORDLIST = 'data/wordlist.txt'
 
 

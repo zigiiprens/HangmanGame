@@ -1,5 +1,5 @@
 import string
-from helper import get_random_word
+from src.helper import get_random_word
 
 
 def get_num_attempts():
